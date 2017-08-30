@@ -1,0 +1,7 @@
+biopython==1.70
+ipykernel==4.6.1
+ipython==6.1.0
+jupyter==1.0.0
+numpy==1.13.1
+scipy==0.19.1
+ftputil=3.3.1
