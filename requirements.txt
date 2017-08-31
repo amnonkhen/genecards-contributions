@@ -5,3 +5,4 @@ jupyter==1.0.0
 numpy==1.13.1
 scipy==0.19.1
 ftputil=3.3.1
+bcbio-gff=0.6.4
